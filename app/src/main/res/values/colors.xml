@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorRedish">#f44336</color>
+
+
+    <color name="colorPrimary">#00a8a8</color> <!-- -->
+    <color name="colorPrimaryDark">#008080</color> <!-- -->
+    <color name="colorPrimaryDarkTrans">#80009494</color>
+    <color name="colorPrimaryDarkTrans2">#26009494</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimaryTrans">#503F51B5</color>
+    <color name="colorBlackTrans">#50000000</color>
+    <color name="colorBlack1">#323232</color>
+    <color name="colorWhiteSmoke">#F5F5F5</color>
+    <color name="colorWhiteSmoke2">#dcdcdc</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="bp_disabled_day">#f44336</color>
+
+    <color name="workerDetails">#262626</color>
+</resources>
